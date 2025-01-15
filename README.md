@@ -9,10 +9,10 @@ This repository provides implementations and resources for various **unsupervise
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Key Features](#key-features)
-3. [Modules](#modules)
-   - [Clustering](#clustering)
-   - [Dimensionality Reduction](#dimensionality-reduction)
-   - [Recommender System](#recommender-system)
-   - [Anomaly Detection](#anomaly-detection)
+1. (#overview)
+2. (#key-features)
+3. (#modules)
+   - (#clustering)
+   - (#dimensionality-reduction)
+   - (#recommender-system)
+   - (#anomaly-detection)
